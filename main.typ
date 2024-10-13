@@ -165,7 +165,7 @@
 
   - Find an issue (bug report, feature request, or generally a task to work on) and work on it.
     - This can be code related, or not code related (e.g. documentation, design, etc.).
-    - Fine a small-sized issue (or tagged with `beginner`, `good-first-issue`, etc.) to start with. This will help you get familiar with the project's existing works and the contribution process.
+    - Find a small-sized issue (or tagged with `beginner`, `good-first-issue`, etc.) to start with. This will help you get familiar with the project's existing works and the contribution process.
 
   - Talk to the maintainers and other contributors.\
     They can help you get started, helping you choose something to work on.
